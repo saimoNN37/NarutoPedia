@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/NarutoPedia/static/js/main.f017a38e.js",
+    "static/js/787.dd256daa.chunk.js": "/NarutoPedia/static/js/787.dd256daa.chunk.js",
+    "index.html": "/NarutoPedia/index.html",
+    "main.f017a38e.js.map": "/NarutoPedia/static/js/main.f017a38e.js.map",
+    "787.dd256daa.chunk.js.map": "/NarutoPedia/static/js/787.dd256daa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f017a38e.js"
+  ]
+}
